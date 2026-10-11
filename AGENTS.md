@@ -4,6 +4,10 @@ You are going to make a short promo / motion-graphics video (an MP4) by writing 
 The page is a **pure function of time**; Chrome photographs it at any moment you ask; ffmpeg turns the photographs into a file.
 Read this whole file once, then follow the workflow. Humans: see `README.md`; if you want to brief an AI, see `docs/PROMPTING.md`.
 
+**AI mailbox (owner order, 2026-10-10):** Claude, Codex and Grok share the private repo `coolman1984/Inbox`. At the start of
+every session, read the open messages in your inbox there (`inbox/claude/` or `inbox/codex/`) and follow its README. When you need
+something you cannot reach (blocked websites, downloads), leave a request in another assistant's inbox and tell the owner in one line.
+
 ## The idea in 6 lines
 
 1. A project is a folder `projects/<name>/` with `index.html`, `scene.js`, `cues.json`, `sound.py`, `fonts/`, and optional `assets/`.
